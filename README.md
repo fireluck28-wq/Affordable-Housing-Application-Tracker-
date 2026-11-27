@@ -103,9 +103,11 @@ com.housingtracker
 ## How to Run
 
 1. Clone the repository
+    git clone <https://github.com/fireluck28-wq/Affordable-Housing-Application-Tracker-.git>
 2. Open project in IntelliJ IDEA
-3. Reload Maven dependencies
-4. Run Main.java
+3. Reload Maven dependencies from pom.xml.
+4. Navigate to "src/main/java/com/housingtracker/Main.java"
+5. Run Main.java
 
 ---
 
