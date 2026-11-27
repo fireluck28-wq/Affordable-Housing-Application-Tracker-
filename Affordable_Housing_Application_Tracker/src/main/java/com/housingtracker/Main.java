@@ -1,11 +1,5 @@
 package com.housingtracker;
 
-import com.housingtracker.model.Applicant;
-import com.housingtracker.model.HousingApplication;
-import com.housingtracker.model.StatusListener;
-import com.housingtracker.service.ApplicationService;
-import com.housingtracker.strategy.FamilyMemberRule;
-import com.housingtracker.strategy.IncomeRule;
 import com.housingtracker.view.MainView;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
